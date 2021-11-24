@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="İcosn">
+    <file>warning (1).png</file>
+    <file>IMG_20200704_171826.jpg</file>
+    <file>123.png</file>
+    <file>error.png</file>
+    <file>info.png</file>
+    <file>information.png</file>
+    <file>question.png</file>
+  </qresource>
+</RCC>
