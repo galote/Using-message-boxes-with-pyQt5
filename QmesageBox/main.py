@@ -55,7 +55,7 @@ def about():
     "<br><br>"
     "<br> ""<br>"" Ferhat ÇElİK""<br>"" GİTHUB SAYFASINA BAK "
     "<br>"
-    "<a href=\"https://www.yyu.edu.tr\" >YYU </a>"
+    "<a href=\"#\" >YYU </a>"
     "<br><br>"
    "</font>" 
     )
